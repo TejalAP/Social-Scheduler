@@ -14,7 +14,7 @@ We can also send deadlines, important meeting announcement. Now no more delays a
 
 - ReactJS
 - Nodejs
-- Python
+- Python as programming language
 - Selenium
 - API for Various Social Media
 - automation
